@@ -1,6 +1,10 @@
 cd /media/student/data5/cvbridge_build_ws
 catkin build
 
+----------------7/16 convert to multi-repo with submodule ---
+ git submodule add  https://github.com/catkin/catkin_simple.git ./src/catkin_simple/
+
+ git submodule update
 ---------------- 7/15/22 -----------------
 this workspace is configured to use python3 (miniconda )
 to see the python env, 
