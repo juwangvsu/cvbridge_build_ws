@@ -2,9 +2,33 @@ cd /media/student/data5/cvbridge_build_ws
 catkin build
 
 ----------------7/16 convert to multi-repo with submodule ---
- git submodule add  https://github.com/catkin/catkin_simple.git ./src/catkin_simple/
+to convert this folder to multi-repo, need to remove all pkgs under src/
+and readd them as submodule:
 
- git submodule update
+git submodule add  https://github.com/catkin/catkin_simple.git ./src/catkin_simple/
+git submodule add https://github.com/juwangvsu/yolov5_ros.git src/yolov5_ros
+
+git submodule add  https://gitlab.com/mit-acl/lab/acl-mapping.git src/acl-mapping
+git submodule updatea
+
+when clone this depo:
+	git clone https://github.com/juwangvsu/cvbridge_build_ws.git --recursive
+
+	git submodule init 
+	git sumbodule update 
+	then make sure the submodule use the right branch and commit
+	cd src/vision_opencv
+		git checkout 33f59e5a0299ed8ce11adfdc4b9c6b6b731f84f1
+		(otherwise there is an boost error and build fail)
+
+issue and fix:
+		faster build fail
+		error:  error: ‘snapstack_msgs::Goal {aka struct snapstack_msgs::Goal_<std::allocator<void> >}’ has no member named ‘dyaw’
+     quadGoal.dyaw = next_goal.dyaw;
+
+		snapstack_msgs version problem
+		fix: git checkout 3e1dee9616bd7e8a467bce5a66c947ebf13a79d8
+
 ---------------- 7/15/22 -----------------
 this workspace is configured to use python3 (miniconda )
 to see the python env, 
