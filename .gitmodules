@@ -1,5 +1,5 @@
 [submodule "acl-gazebo"]
-	path = acl-gazebo
+	path = src/acl-gazebo
 	url = https://gitlab.com/mit-acl/lab/acl-gazebo.git
 [submodule "src/catkin_simple"]
 	path = src/catkin_simple
