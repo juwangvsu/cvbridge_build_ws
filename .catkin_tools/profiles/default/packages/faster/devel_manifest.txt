@@ -1,0 +1,6 @@
+faster/faster
+/media/student/data5/cvbridge_build_ws/devel/.private/faster/cmake.lock /media/student/data5/cvbridge_build_ws/devel/./cmake.lock
+/media/student/data5/cvbridge_build_ws/devel/.private/faster/lib/pkgconfig/faster.pc /media/student/data5/cvbridge_build_ws/devel/lib/pkgconfig/faster.pc
+/media/student/data5/cvbridge_build_ws/devel/.private/faster/lib/faster/faster_node /media/student/data5/cvbridge_build_ws/devel/lib/faster/faster_node
+/media/student/data5/cvbridge_build_ws/devel/.private/faster/share/faster/cmake/fasterConfig-version.cmake /media/student/data5/cvbridge_build_ws/devel/share/faster/cmake/fasterConfig-version.cmake
+/media/student/data5/cvbridge_build_ws/devel/.private/faster/share/faster/cmake/fasterConfig.cmake /media/student/data5/cvbridge_build_ws/devel/share/faster/cmake/fasterConfig.cmake

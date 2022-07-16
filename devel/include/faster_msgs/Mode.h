@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/faster_msgs/include/faster_msgs/Mode.h

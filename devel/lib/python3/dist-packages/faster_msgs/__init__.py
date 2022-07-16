@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/faster_msgs/lib/python3/dist-packages/faster_msgs/__init__.py

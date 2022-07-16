@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake

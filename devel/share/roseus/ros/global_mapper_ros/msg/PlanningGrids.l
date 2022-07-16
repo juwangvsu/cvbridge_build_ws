@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/global_mapper_ros/share/roseus/ros/global_mapper_ros/msg/PlanningGrids.l

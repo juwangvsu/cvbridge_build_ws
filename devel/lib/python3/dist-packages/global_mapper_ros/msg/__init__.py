@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/global_mapper_ros/lib/python3/dist-packages/global_mapper_ros/msg/__init__.py

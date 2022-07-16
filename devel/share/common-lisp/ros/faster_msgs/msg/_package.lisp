@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/faster_msgs/share/common-lisp/ros/faster_msgs/msg/_package.lisp

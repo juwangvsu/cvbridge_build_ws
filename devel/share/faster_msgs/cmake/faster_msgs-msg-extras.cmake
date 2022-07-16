@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/faster_msgs/share/faster_msgs/cmake/faster_msgs-msg-extras.cmake

@@ -1,0 +1,6 @@
+catkin_simple
+/media/student/data5/cvbridge_build_ws/devel/.private/catkin_simple/cmake.lock /media/student/data5/cvbridge_build_ws/devel/./cmake.lock
+/media/student/data5/cvbridge_build_ws/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc /media/student/data5/cvbridge_build_ws/devel/lib/pkgconfig/catkin_simple.pc
+/media/student/data5/cvbridge_build_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake /media/student/data5/cvbridge_build_ws/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
+/media/student/data5/cvbridge_build_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake /media/student/data5/cvbridge_build_ws/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+/media/student/data5/cvbridge_build_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake /media/student/data5/cvbridge_build_ws/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake

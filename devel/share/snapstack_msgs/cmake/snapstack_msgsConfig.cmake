@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/snapstack_msgs/share/snapstack_msgs/cmake/snapstack_msgsConfig.cmake

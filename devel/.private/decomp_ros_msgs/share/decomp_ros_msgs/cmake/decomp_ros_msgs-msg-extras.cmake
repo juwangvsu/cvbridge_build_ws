@@ -1,0 +1,2 @@
+set(decomp_ros_msgs_MESSAGE_FILES "/media/student/data5/cvbridge_build_ws/src/faster/thirdparty/DecompROS/decomp_ros_msgs/msg/Ellipsoid.msg;/media/student/data5/cvbridge_build_ws/src/faster/thirdparty/DecompROS/decomp_ros_msgs/msg/EllipsoidArray.msg;/media/student/data5/cvbridge_build_ws/src/faster/thirdparty/DecompROS/decomp_ros_msgs/msg/Polyhedron.msg;/media/student/data5/cvbridge_build_ws/src/faster/thirdparty/DecompROS/decomp_ros_msgs/msg/PolyhedronArray.msg")
+set(decomp_ros_msgs_SERVICE_FILES "")

@@ -1,0 +1,5 @@
+vision_opencv/opencv_tests
+/media/student/data5/cvbridge_build_ws/devel/.private/opencv_tests/cmake.lock /media/student/data5/cvbridge_build_ws/devel/./cmake.lock
+/media/student/data5/cvbridge_build_ws/devel/.private/opencv_tests/lib/pkgconfig/opencv_tests.pc /media/student/data5/cvbridge_build_ws/devel/lib/pkgconfig/opencv_tests.pc
+/media/student/data5/cvbridge_build_ws/devel/.private/opencv_tests/share/opencv_tests/cmake/opencv_testsConfig.cmake /media/student/data5/cvbridge_build_ws/devel/share/opencv_tests/cmake/opencv_testsConfig.cmake
+/media/student/data5/cvbridge_build_ws/devel/.private/opencv_tests/share/opencv_tests/cmake/opencv_testsConfig-version.cmake /media/student/data5/cvbridge_build_ws/devel/share/opencv_tests/cmake/opencv_testsConfig-version.cmake

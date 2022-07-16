@@ -1,0 +1,1 @@
+/media/student/data5/cvbridge_build_ws/devel/.private/fla_msgs/share/roseus/ros/fla_msgs/msg/FlightEvent.l
