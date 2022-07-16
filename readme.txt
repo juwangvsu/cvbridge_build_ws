@@ -9,7 +9,8 @@ git submodule add  https://github.com/catkin/catkin_simple.git ./src/catkin_simp
 git submodule add https://github.com/juwangvsu/yolov5_ros.git src/yolov5_ros
 
 git submodule add  https://gitlab.com/mit-acl/lab/acl-mapping.git src/acl-mapping
-git submodule updatea
+git submodule update
+	it seems the multi-repo also know which version is used for each submodule.
 
 when clone this depo:
 	git clone https://github.com/juwangvsu/cvbridge_build_ws.git --recursive
@@ -22,12 +23,21 @@ when clone this depo:
 		(otherwise there is an boost error and build fail)
 
 issue and fix:
+	cakin config fix python path to the actual one:
+catkin config -DPYTHON_EXECUTABLE=/home/student/.pyenv/versions/miniconda3-latest/bin/python -DPYTHON_INCLUDE_DIR=/home/student/.pyenv/versions/miniconda3-latest/include/python3.7m -DPYTHON_LIBRARY=/home/student/.pyenv/versions/miniconda3-latest/lib/libpython3.7m.so
+
+
 		faster build fail
 		error:  error: ‘snapstack_msgs::Goal {aka struct snapstack_msgs::Goal_<std::allocator<void> >}’ has no member named ‘dyaw’
      quadGoal.dyaw = next_goal.dyaw;
 
 		snapstack_msgs version problem
 		fix: git checkout 3e1dee9616bd7e8a467bce5a66c947ebf13a79d8
+
+		missing gurobi library:
+			install gurobi, ~/Documents/gurobi9xx
+
+		if don't need faster, then ignore this. yolov5_ros should be good
 
 ---------------- 7/15/22 -----------------
 this workspace is configured to use python3 (miniconda )

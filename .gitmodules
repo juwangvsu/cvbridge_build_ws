@@ -11,7 +11,7 @@
 	path = src/acl-mapping
 	url = https://gitlab.com/mit-acl/lab/acl-mapping.git
 [submodule "src/hehavior_selector"]
-	path = src/hehavior_selector
+	path = src/behavior_selector
 	url = https://gitlab.com/mit-acl/fsw/behavior_selector.git
 [submodule "src/detection_msgs"]
 	path = src/detection_msgs
