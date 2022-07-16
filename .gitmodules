@@ -1,0 +1,3 @@
+[submodule "acl-gazebo"]
+	path = acl-gazebo
+	url = https://gitlab.com/mit-acl/lab/acl-gazebo.git
