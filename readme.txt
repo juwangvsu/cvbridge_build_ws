@@ -24,8 +24,7 @@ when clone this depo:
 
 issue and fix:
 	cakin config fix python path to the actual one:
-catkin config -DPYTHON_EXECUTABLE=/home/student/.pyenv/versions/miniconda3-latest/bin/python -DPYTHON_INCLUDE_DIR=/home/student/.pyenv/versions/miniconda3-latest/include/python3.7m -DPYTHON_LIBRARY=/home/student/.pyenv/versions/miniconda3-latest/lib/libpython3.7m.so
-
+catkin config -DPYTHON_EXECUTABLE=/home/student/.pyenv/versions/miniconda3-latest/bin/python -DPYTHON_EXECUTABLE=/home/student/.pyenv/versions/miniconda3-latest/bin/python -DPYTHON_INCLUDE_DIR=/home/student/.pyenv/versions/miniconda3-latest/include/python3.7m -DPYTHON_LIBRARY=/home/student/.pyenv/versions/miniconda3-latest/lib/libpython3.7m.so
 
 		faster build fail
 		error:  error: ‘snapstack_msgs::Goal {aka struct snapstack_msgs::Goal_<std::allocator<void> >}’ has no member named ‘dyaw’
